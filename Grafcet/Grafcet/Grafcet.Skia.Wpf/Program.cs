@@ -1,3 +1,0 @@
-﻿namespace Grafcet.Skia.Gtk
-{
-}

@@ -1,1 +1,0 @@
-F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Grafcet.UWP.csproj;x86
