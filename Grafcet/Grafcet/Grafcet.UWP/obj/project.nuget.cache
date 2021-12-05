@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EuIIJJCtGzvVA/m273X9/iO91ZcYcJ9vIu9USNuXaFuuNmi5M5Titu6ttSzTZhb+elbw31fc4dngBlaW55i+Q==",
+  "dgSpecHash": "WkYxnDgLMo1sm2lSbV6XJQEtIl7lRjjIUO7zZCoDdNfkfg61Lb5FclLSvvv18sqNIwg8D0Y1ydrMZfm/88+0Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.UWP\\Grafcet.UWP.csproj",
+  "projectFilePath": "F:\\Jeux Github\\Uno\\Grafcet\\Grafcet\\Grafcet.UWP\\Grafcet.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",

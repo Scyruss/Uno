@@ -10,7 +10,7 @@
 using System;
 using System.Linq;
 using System.Diagnostics;
-namespace Grafcet.Skia.Wpf
+namespace Grafcet.Skia.WPF
 {
 	/// <summary>
 	/// Builder for Windows.UI.Xaml.Automation.Peers.AutomationPeer

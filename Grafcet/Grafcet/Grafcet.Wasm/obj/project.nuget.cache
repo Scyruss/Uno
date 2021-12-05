@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wyDwxRoXRHs6PmFv4K0oeiPZB3oEKWHg97kmt65nehm6YB+myC9aZPFXWeXYXKLF7IRcdYasgcX5dp2E0kFmTw==",
+  "dgSpecHash": "oFzFspqnptAzKsU2RaaOhvrbvVEWcuzCxeblOyIvMd9h29blJ+4FD3OyA6KfEUmfZl7hA6t5rZ5G7RrUkIAyjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.Wasm\\Grafcet.Wasm.csproj",
+  "projectFilePath": "F:\\Jeux Github\\Uno\\Grafcet\\Grafcet\\Grafcet.Wasm\\Grafcet.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

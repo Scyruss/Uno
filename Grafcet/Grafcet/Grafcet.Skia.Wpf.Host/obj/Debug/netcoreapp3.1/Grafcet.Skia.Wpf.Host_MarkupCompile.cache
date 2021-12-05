@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\
+F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\
 Grafcet.Skia.Wpf.Host
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;UNO_REFERENCE_API;HAS_UNO_SKIA;HAS_UNO_SKIA_WPF
-C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Skia.Wpf.Host\App.xaml
+F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Skia.Wpf.Host\App.xaml
 11407045341
 1-809296145
 51566534978
-230-1352966622
+230378347784
 MainWindow.xaml;
 
 False

@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "Grafcet.Skia.Wpf/1.0.0": {
+      "Grafcet.Skia.WPF/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Logging": "5.0.0",
           "Microsoft.Extensions.Logging.Console": "5.0.0",
@@ -17,7 +17,7 @@
           "Uno.UI.Skia.Wpf": "4.0.7"
         },
         "runtime": {
-          "Grafcet.Skia.Wpf.dll": {}
+          "Grafcet.Skia.WPF.dll": {}
         }
       },
       "CommonServiceLocator/2.0.5": {
@@ -593,7 +593,7 @@
     }
   },
   "libraries": {
-    "Grafcet.Skia.Wpf/1.0.0": {
+    "Grafcet.Skia.WPF/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

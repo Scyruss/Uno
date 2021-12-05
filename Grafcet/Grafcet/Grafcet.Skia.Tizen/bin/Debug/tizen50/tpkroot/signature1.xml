@@ -248,11 +248,11 @@
     </Reference>
     <Reference URI="bin%2FGrafcet.Skia.Tizen.pdb">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>YrEbtJFBipC/DzcOeqDURHAKNjrv7iZb28HLLq5JuavUxoV2poJPdNboFtenXbzNlmpduVVAyGR/Jx1O19X7kw==</DigestValue>
+      <DigestValue>bP1682fEJFSJnZyyVQDYRAg0PCD/gGHK+Twb8GgdkMEJi8yh5G0DmB58v0D3iuyezCFccVRmJuxfqKKR9PXdiQ==</DigestValue>
     </Reference>
     <Reference URI="bin%2FGrafcet.Skia.Tizen.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>4EcUN9+K3XGjqHciGlcA0QvA6o/wzahcJ6pSHntgNgZBpULT84f3ZGFMHXyM850nh6XnlOPeqCaRMVgMmO+36A==</DigestValue>
+      <DigestValue>GAEI4KzERglo/Av7+iKB5Kdg0AD3rAVzGJhy3UefPYT8Tas4k/gaSid7MO5FdR6RE050vgu4AwXix4UnW0+LfQ==</DigestValue>
     </Reference>
     <Reference URI="bin%2FCommonServiceLocator.dll">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
@@ -268,7 +268,7 @@
     </Reference>
     <Reference URI="author-signature.xml">
       <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512" />
-      <DigestValue>9iRqY/erXSPJsy2JKvTQ77bNyOjFV9fUMTLRGAr/rh7Ox7hhtJHJMOqE4llPNL3tPLQFUY3CyGAZVDxf7o2eYA==</DigestValue>
+      <DigestValue>NspHKA0Tkg9QnqejvkZ+mWVeKwUzlIGLAT+GwS80egeC2fJlICYthsB7FqVE1EWnbK/G8STxxL1XhwIKoclyjQ==</DigestValue>
     </Reference>
     <Reference URI="#prop">
       <Transforms>
@@ -279,9 +279,9 @@
     </Reference>
   </SignedInfo>
   <SignatureValue>
-h4UVul0vP4w8l4FENJ9KeT2PR/t21XxEG9E6Gt3p8htmAOil0cNxbZADeoSSAam72aGpmdJ+9TRR
-0yFtpOwiP1/P2wra5iuiBPadUUobfa9xi+1Mnvp4tOzr5X9CaZz90uzIOZMikRzqut/DLBdFtSIm
-1XAb70TiuFFaIbnx+pc=
+nlCWaS0EiEGLT3EvyQEVcWyn7DOHO60ia9VAqhME/ZrQF9ZoPitz0TM5hiWfL1ubvDeMzWRf1EIw
++tYsP+QLTeZZ6tEGSLkal9VREyChTIQZMPCAesV7GQC/VZlExzjeMH6Tfg1WCVyC+G+OBxPsXzqu
+gQau3wwUCNG/VO2vcFk=
 </SignatureValue>
   <KeyInfo>
     <X509Data>

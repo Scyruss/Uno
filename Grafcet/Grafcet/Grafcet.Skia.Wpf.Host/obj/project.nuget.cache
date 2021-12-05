@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "warSr2PiTj3JErBOrke4yqqHNNfMBERV+8qC8FWOkPWl6Z7wRonp1ycfeDt4K+Dp6QveTGiKhjRbmCBDQ6Dh/Q==",
+  "dgSpecHash": "qS9xsKdif6KhJA5UZv1t42phl72pKtXpIDOoXnr73e8hzv//sm9l13ssf/g7pIZhKu658zjkQwqNyfEhuCAHYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.Skia.Wpf.Host\\Grafcet.Skia.Wpf.Host.csproj",
+  "projectFilePath": "F:\\Jeux Github\\Uno\\Grafcet\\Grafcet\\Grafcet.Skia.Wpf.Host\\Grafcet.Skia.Wpf.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.0\\microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",

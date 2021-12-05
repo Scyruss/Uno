@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TCoIfRaoEnNZXSLJk5TdZ7QkRdFr0QrlxbrGMAgmhlOuVUKl+8slMBOOaovjC3y9x0BjDcLzzNha8bR17kV8nw==",
+  "dgSpecHash": "riE94saqlXl4vPZs7XKVLC3AvqRK2Mvzs//6vCdLDmQLjnDnOn9mVuB7XhPKvK9RWlz2ZeX3MRYZVgKdPnjwsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.iOS\\Grafcet.iOS.csproj",
+  "projectFilePath": "F:\\Jeux Github\\Uno\\Grafcet\\Grafcet\\Grafcet.iOS\\Grafcet.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romai\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\romai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

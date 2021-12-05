@@ -14,12 +14,12 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Documents;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Animation;
-using Grafcet.Skia.Wpf;
+using Grafcet.Skia.WPF;
 
 #if __WASM__
 #error invalid internal source generator state. The __WASM__ DefineConstant was not propagated properly.
 #endif
-namespace Grafcet.Skia.Wpf
+namespace Grafcet.Skia.WPF
 {
 	/// <summary>
 	/// Contains all the static resources defined for the application
@@ -39,7 +39,7 @@ namespace Grafcet.Skia.Wpf
 		private static bool _dictionariesRegistered;
 		internal static global::Uno.UI.Xaml.XamlParseContext __ParseContext_ {get; } = new global::Uno.UI.Xaml.XamlParseContext()
 		{
-			AssemblyName = "Grafcet.Skia.Wpf",
+			AssemblyName = "Grafcet.Skia.WPF",
 		}
 		;
 
@@ -65,8 +65,8 @@ namespace Grafcet.Skia.Wpf
 			if(!_stylesRegistered)
 			{
 				_stylesRegistered = true;
-				RegisterDefaultStyles_App_d559a990f2ca75f37a58f6e5cb04ae25();
-				RegisterDefaultStyles_MainPage_52d3f5089d04e65d82f3eed350b1ffe0();
+				RegisterDefaultStyles_App_ef4555aa3cbf96486ffc6d28fda2f99e();
+				RegisterDefaultStyles_MainPage_151cb40ef15ff2ba8ebcfb1ec6426d00();
 			}
 		}
 		// Register ResourceDictionaries using ms-appx:/// syntax, this is called for external resources
@@ -81,8 +81,8 @@ namespace Grafcet.Skia.Wpf
 		internal static void RegisterResourceDictionariesBySourceLocal()
 		{
 		}
-		static partial void RegisterDefaultStyles_App_d559a990f2ca75f37a58f6e5cb04ae25();
-		static partial void RegisterDefaultStyles_MainPage_52d3f5089d04e65d82f3eed350b1ffe0();
+		static partial void RegisterDefaultStyles_App_ef4555aa3cbf96486ffc6d28fda2f99e();
+		static partial void RegisterDefaultStyles_MainPage_151cb40ef15ff2ba8ebcfb1ec6426d00();
 		[global::System.Obsolete("This method is provided for binary backward compatibility. It will always return null.")]
 		[global::System.ComponentModel.EditorBrowsable(global::System.ComponentModel.EditorBrowsableState.Never)]
 		public static object FindResource(string name) => null;

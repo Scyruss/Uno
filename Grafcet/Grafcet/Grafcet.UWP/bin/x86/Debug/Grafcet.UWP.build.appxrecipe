@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-44A58C7</Machine>
+    <Machine>DESKTOP-1NQQVJE</Machine>
     <WindowsUser>romai</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>77d03b3f-e905-4daa-bfa9-cddea3958070</PackageIdentityName>
     <PackageIdentityPublisher>CN=romai</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Grafcet.exe">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Grafcet.exe">
       <PackagePath>entrypoint\Grafcet.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\romai\.nuget\packages\commonservicelocator\2.0.5\lib\netstandard2.0\CommonServiceLocator.dll">
@@ -82,42 +82,42 @@
     <AppxPackagedFile Include="C:\Users\romai\.nuget\packages\uno.ui\4.0.7\lib\UAP\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml">
       <PackagePath>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Shared\Assets\SharedAssets.md">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Shared\Assets\SharedAssets.md">
       <PackagePath>Assets\SharedAssets.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Grafcet.xr.xml">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Grafcet.xr.xml">
       <PackagePath>Grafcet.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
@@ -126,10 +126,10 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Core\Grafcet.exe">
+    <AppxPackagedFile Include="F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\bin\x86\Debug\Core\Grafcet.exe">
       <PackagePath>Grafcet.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\romai\.nuget\packages\microsoft.ui.xaml\2.6.2\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">

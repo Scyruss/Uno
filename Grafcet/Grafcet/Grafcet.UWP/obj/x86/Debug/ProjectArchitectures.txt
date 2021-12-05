@@ -1,1 +1,1 @@
-C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.UWP\Grafcet.UWP.csproj;x86
+F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.UWP\Grafcet.UWP.csproj;x86

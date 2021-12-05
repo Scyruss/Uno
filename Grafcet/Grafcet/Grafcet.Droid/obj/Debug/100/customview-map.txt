@@ -1,13 +1,13 @@
-attr;C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\attrs.xml
-declare-styleable;C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\attrs.xml
-item;C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\styles.xml
+attr;F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\attrs.xml
+declare-styleable;F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\attrs.xml
+item;F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\styles.xml
 item;obj\Debug\100\res\values\styles.xml
-resources;C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\attrs.xml
-resources;C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\styles.xml
+resources;F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\attrs.xml
+resources;F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\styles.xml
 resources;obj\Debug\100\res\values\resources_resw-strings.xml
 resources;obj\Debug\100\res\values\strings.xml
 resources;obj\Debug\100\res\values\styles.xml
 string;obj\Debug\100\res\values\resources_resw-strings.xml
 string;obj\Debug\100\res\values\strings.xml
-style;C:\Users\romai\source\repos\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\styles.xml
+style;F:\Jeux Github\Uno\Grafcet\Grafcet\Grafcet.Droid\obj\Debug\100\lp\6\jl\res\values\styles.xml
 style;obj\Debug\100\res\values\styles.xml

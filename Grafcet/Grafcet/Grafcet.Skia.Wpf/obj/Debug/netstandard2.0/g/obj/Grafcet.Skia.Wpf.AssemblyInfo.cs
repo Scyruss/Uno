@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Grafcet.Skia.Wpf")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Grafcet.Skia.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Grafcet.Skia.Wpf")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Grafcet.Skia.Wpf")]
+[assembly: System.Reflection.AssemblyProductAttribute("Grafcet.Skia.WPF")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Grafcet.Skia.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
