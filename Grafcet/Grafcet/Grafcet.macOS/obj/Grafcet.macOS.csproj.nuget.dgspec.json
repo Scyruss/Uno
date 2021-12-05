@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.macOS\\Grafcet.macOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.macOS\\Grafcet.macOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.macOS\\Grafcet.macOS.csproj",
+        "projectName": "Grafcet.macOS",
+        "projectPath": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.macOS\\Grafcet.macOS.csproj",
+        "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romai\\source\\repos\\Uno\\Grafcet\\Grafcet\\Grafcet.macOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romai\\NuGet.Config",
+          "C:\\Users\\romai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinmac20"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dnceng.pkgs.visualstudio.com/public/_packaging/dotnet6/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/xamarin-impl/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet6/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/xamarin/public/_packaging/maui-main/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinmac20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinmac20": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[4.0.7, )"
+            },
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.0.7, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[4.0.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
